@@ -2,7 +2,7 @@
   "name": "WhatsGram",
   "description": "Yet another userbot for WhatsApp.",
   "keywords": ["WhatsApp", "Telegram", "Userbot", "NodeJs"],
-  "repository": "https://github.com/WhatsGram/WhatsGram",
+  "repository": "https://github.com/unknownavenger/WhatsGram",
   "website": "https://t.me/AffanTheBest",
   "scripts": {
     "worker": "npm start"
